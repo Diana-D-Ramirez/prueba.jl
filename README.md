@@ -1,2 +1,2 @@
 # prueba.jl
-Interface de prueba
+Interfase de prueba
